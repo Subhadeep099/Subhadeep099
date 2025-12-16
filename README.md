@@ -1,6 +1,6 @@
+<!--
 ## Hi there 👋
 
-<!--
 **Subhadeep099/Subhadeep099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -47,18 +47,18 @@ I specialize in the Python scientific stack:
 ---
 
 ### 🚀 Featured Repository
-**[Computational-Physics](https://github.com/[Your-Username]/Computational-Physics)**
+**[Computational-Physics](https://github.com/Subhadeep099/Computational-Physics)**
 *This is where I document my solutions for my Physics coursework. It includes visualizations of wave functions and convergence graphs for numerical algorithms.*
 
 ---
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[Your-Username]&show_icons=true&theme=radical" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Subhadeep099&show_icons=true&theme=radical" alt="Stats" />
 </p>
 
 ---
 
 ### 📫 Connect with Me
-* **LinkedIn:** [Your LinkedIn Link]
+* **LinkedIn:** https://www.linkedin.com/in/subhadeep-kanjilal-7056702b3
 * **Email:** subhadeepkanjilal099@gmail.com
