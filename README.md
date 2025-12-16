@@ -47,7 +47,7 @@ I specialize in the Python scientific stack:
 ---
 
 ### 🚀 Featured Repository
-**[Computational-Physics](https://github.com/Subhadeep099/Computational-Physics)**
+**[Computational-Physics](https://github.com/Subhadeep099/Numerical-Methods-Physics)**
 *This is where I document my solutions for my Physics coursework. It includes visualizations of wave functions and convergence graphs for numerical algorithms.*
 
 ---
