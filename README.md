@@ -14,3 +14,51 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there, I'm Subhadeep Kanjilal! 👋
+
+### ⚛️ Physics Major & Scientific Computing Enthusiast
+
+I am a physics student passionate about using code to solve complex physical problems. I focus on **Computational Physics**, translating mathematical models—like Differential Equations and Quantum Mechanics—into Python simulations.
+
+---
+
+### 🔭 What I'm Working On
+I am currently building a library of **Numerical Methods** to solve physical systems. Some of my key implementations include:
+
+* **Quantum Mechanics:** Solving the **Schrödinger Wave Equation** and plotting wave functions.
+* **Differential Equations:** Using **Euler’s Method** and the **Shooting Method** for dynamic systems.
+* **Root Finding:** Implementing **Newton-Raphson** and **Bisection methods** for high-precision analysis.
+
+---
+
+### 🛠️ Languages & Tools
+I specialize in the Python scientific stack:
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,vscode,git,github,latex,md" />
+  </a>
+</p>
+
+* **Core:** Python (NumPy, Matplotlib, SciPy)
+* **Math:** LaTeX (for documentation), Numerical Analysis
+* **Workflow:** VS Code, Git
+
+---
+
+### 🚀 Featured Repository
+**[Computational-Physics](https://github.com/[Your-Username]/Computational-Physics)**
+*This is where I document my solutions for my Physics coursework. It includes visualizations of wave functions and convergence graphs for numerical algorithms.*
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=[Your-Username]&show_icons=true&theme=radical" alt="Stats" />
+</p>
+
+---
+
+### 📫 Connect with Me
+* **LinkedIn:** [Your LinkedIn Link]
+* **Email:** subhadeepkanjilal099@gmail.com
