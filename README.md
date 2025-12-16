@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 # Hi there, I'm Subhadeep Kanjilal! 👋
 
-### ⚛️ Physics Major & Scientific Computing Enthusiast
+<!--### ⚛️ Physics Major & Scientific Computing Enthusiast-->
 
 I am a physics student passionate about using code to solve complex physical problems. I focus on **Computational Physics**, translating mathematical models—like Differential Equations and Quantum Mechanics—into Python simulations. I’m deeply interested in creating meaningful, creative content and solving real-world problems with an entrepreneurial mindset.
+
 ---
 
 ### 🔭 What I'm Working On
